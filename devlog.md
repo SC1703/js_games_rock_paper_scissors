@@ -17,3 +17,7 @@
 ### ⏭️ Next step
 
 -
+
+### breadcrumb
+
+// NEXT: hook up the reset button to resetScore()

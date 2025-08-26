@@ -54,6 +54,8 @@ A simple Rock, Paper, Scissors game built with vanilla JavaScript, HTML, and CSS
 - Keep a history of past rounds.
 - Let the user play against a "best of 5" mode.
 
+### pseudocode
+
 A global array with choices
 a function called getComputerChoice that get the random number and assigns the element in the array at the generated index to a computerChoice variable and return it
 lets
